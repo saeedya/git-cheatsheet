@@ -31,3 +31,42 @@ If we want to update local repository with remote repository, what command we wi
   - git pull "remote-url"
   
 What are the differences between checkout,reset and rever?
+-----------------------------------------------------------
+  - A checkout is an operation that moves the HEAD ref pointer to a specified commit.
+  - A revert is an operation that takes a specified commit and creates a new commit which inverses the specified commit. 
+      git revert can only be run at a commit level scope and has no file level functionality.
+  - A reset is an operation that takes a specified commit, and clear upper commit.
+
+What is difference between merge and rebase?
+---------------------------------------------
+  - Merge will integrates changes between branches.
+  - Rebase changes occures one by one to to e.g master branch
+
+How can we find commits histories?
+-----------------------------------
+  - git log
+  
+How can we see a file changes?
+-------------------------------
+  - git fetch
+
+What is the tag usage? how to create a tag?
+--------------------------------------------
+  - Tags are ref's that point to specific points in Git history. 
+  - Tagging is generally used to capture a point in history that is used for a marked version release (i.e. v1.0.1). 
+  - A tag is like a branch that doesn’t change.
+  - git tag "tag-name"
+ 
+What are the steps to envolve into a project?
+----------------------------------------------
+  1- Create organization in git tool.
+  2- Create a project name
+  3- Each user account should fork the project in local branch
+
+What are branches is used for? How can we merge them?
+------------------------------------------------------
+  - Branches serve as an abstraction for the edit/stage/commit process. 
+  - You can think of them as a way to request a brand new working directory, staging area, and project history. 
+  - New commits are recorded in the history for the current branch, which results in a fork in the history of the project.
+  - Usage: git branch "new-branch-name"
+  
