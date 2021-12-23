@@ -63,7 +63,7 @@ What are the steps to envolve into a project?
   2- Create a project name
   3- Each user account should fork the project in local branch
 
-What are branches is used for? How can we merge them?
+What are branches are using for? How can we merge them?
 ------------------------------------------------------
   - Branches serve as an abstraction for the edit/stage/commit process. 
   - You can think of them as a way to request a brand new working directory, staging area, and project history. 
