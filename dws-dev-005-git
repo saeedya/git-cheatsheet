@@ -1,3 +1,4 @@
+
 Why we use version controls like Git?
 ---------------------------------------
   - Git resolves code storage.
@@ -5,7 +6,6 @@ Why we use version controls like Git?
   - Suitable for code management
   - Tracking step by step application development
  
-
 What is Repository? What an important files it contains?
 ---------------------------------------------------------
   - Contains a collection of files from different version of a project.
@@ -15,3 +15,19 @@ What is Repository? What an important files it contains?
     2- LICENSE file
     3- .gitignore(optionally)
     
+What are the main contents of a good document?
+-----------------------------------------------
+  - A good document has 2 main and 1 optionally sections:
+    1- Defenition of Document
+    2- How it works
+    3- How to contribute(optionally)
+
+What is "git clone" usage?
+---------------------------
+  - It clone project files from remote repository into local repository and vice-versa.
+ 
+If we want to update local repository with remote repository, what command we will use?
+----------------------------------------------------------------------------------------
+  - git pull "remote-url"
+  
+What are the differences between checkout,reset and rever?
