@@ -1,5 +1,6 @@
 # git-cheatsheet
 Start a project
+
   git --version : check your git version
 
   git init: Create new repository
