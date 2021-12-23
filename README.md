@@ -1,6 +1,6 @@
 # git-cheatsheet
 
-Start a project
+#Start a project
 
   git --version : check your git version
 
