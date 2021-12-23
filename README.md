@@ -8,6 +8,17 @@ Start a project
   git clone <local-repo>: Clone local repository
 
   git clone <remote-repo>: Clone remote repository
+--------------------------------------------------------  
+Adding files to staging area(index)
+  
+  git add <filename>: Add single file
+  
+  git add . : Add all files
+--------------------------------------------------------  
+Commit and sync
+  
+  
+  
 
 
 
