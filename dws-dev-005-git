@@ -6,3 +6,12 @@ Why we use version controls like Git?
   - Tracking step by step application development
  
 
+What is Repository? What an important files it contains?
+---------------------------------------------------------
+  - Contains a collection of files from different version of a project.
+  - A place to store our codes
+  - There are 3 important files:
+    1- README.md file
+    2- LICENSE file
+    3- .gitignore(optionally)
+    
