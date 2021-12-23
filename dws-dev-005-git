@@ -40,7 +40,7 @@ What are the differences between checkout,reset and rever?
 What is difference between merge and rebase?
 ---------------------------------------------
   - Merge will integrates changes between branches.
-  - Rebase changes occures one by one to to e.g master branch
+  - Rebase changes occures one by one to to e.g master branch.
 
 How can we find commits histories?
 -----------------------------------
@@ -60,8 +60,8 @@ What is the tag usage? how to create a tag?
 What are the steps to envolve into a project?
 ----------------------------------------------
   1- Create organization in git tool.
-  2- Create a project name
-  3- Each user account should fork the project in local branch
+  2- Create a project name.
+  3- Each users account should fork the project in their local branch.
 
 What are branches are using for? How can we merge them?
 ------------------------------------------------------
