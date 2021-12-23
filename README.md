@@ -1,4 +1,4 @@
-# git-cheatsheet
+# Git-cheatsheet
 
 "Start a project"
 
